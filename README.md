@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm dog brain</h1>
-<h3 align="center">dog brain programmer</h3>
+<h1 align="center">Hi 👋, I'm gym bro programmer </h1>
+<h3 align="center">gym bro programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KAI-YO0&label=Profile%20views&color=0e75b6&style=flat" alt="KAI-YO0" /> </p>
 
